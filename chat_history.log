@@ -1,0 +1,17 @@
+* user1 joined the chat.
+
+[MSG] user1: ./client 127.0.0.1 8080/list — Check who is currently online.
+* user2 joined the chat.
+
+[NICK] user2 -> Rohan
+[MSG] user1: Change user1's name: Type /nick Aryan and press Enter.
+[LEAVE] user1 disconnected
+[LEAVE] Rohan disconnected
+* user1 joined the chat.
+
+[MSG] user1: GET / HTTP/1.1
+[MSG] user1: e373ca8-0af407f2-5300.ws6.app
+* user1 disconnected.
+
+* user2 joined the chat.
+
